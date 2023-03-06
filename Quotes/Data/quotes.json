@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "quote":"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former",
+    "author": "Albert Einstein",
+    "background": "image1"
+  },
+  {
+    "id": 2,
+    "quote":"Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein",
+    "background": "image2"
+  },
+  {
+    "id": 3,
+    "quote":"I have no special talent. I am only passionately curious.",
+    "author": "Albert Einstein",
+    "background": "image3"
+  },
+  {
+    "id": 4,
+    "quote":"To the mind that is still, the whole universe surrenders.",
+    "author": "Lao Tzu",
+    "background": "image4"
+  },
+  {
+    "id": 5,
+    "quote":"The best preparation for tomorrow is doing your best today.",
+    "author": "H. Jackson Brown, Jr.",
+    "background": "image5"
+  },
+]
+
